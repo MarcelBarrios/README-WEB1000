@@ -82,6 +82,10 @@ At 12:00:04 Evil Mickey logs in.
 
 11.Solve https://www.hackerrank.com/challenges/mini-max-sum - be mindful that you are required to print the output to the console in exactly the format that was asked. You are not required to return a value, just print to the console. Also be mindful to use JavaScript.
 
+
+
+
+
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
 
