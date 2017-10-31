@@ -4,11 +4,11 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
 
 1.Name and describe the two main operations of a stack (to add and remove data).
 
-  Answer:  To add data we use Push, and to remove data we use Pop.
+  Answer:  To add data we use Push because we want to put it at the end, and to remove data we use Pop because we want to remove the last element from an array and return that element.
 
 2.Name and describe the two main operations of a queue (to add and remove data).
 
-  Answer: To add data we use Enqueue, and to remove data we use Dequeue.
+  Answer: We use Enqueue to add an item at the tail, and to remove the item at the head we use Dequeue.
 
 3.Draw the tree resulting from adding the following sequence of numbers to an empty tree: 30, 45, 15, 10, 50, 40, 20, 27
 
