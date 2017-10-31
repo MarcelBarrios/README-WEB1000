@@ -1,4 +1,4 @@
-<!-- Quiz 2
+Quiz 2
 
 Instructions: create a new repository called ng-ds-test. Within this repo, create a README.md file. Copy and paste all of these questions into this README file and answer them.
 
@@ -68,8 +68,8 @@ At 12:00:04 Evil Mickey logs in.
 
 
 
-11.Solve https://www.hackerrank.com/challenges/mini-max-sum - be mindful that you are required to print the output to the console in exactly the format that was asked. You are not required to return a value, just print to the console. Also be mindful to use JavaScript. -->
-<!--
+11.Solve https://www.hackerrank.com/challenges/mini-max-sum - be mindful that you are required to print the output to the console in exactly the format that was asked. You are not required to return a value, just print to the console. Also be mindful to use JavaScript.
+
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
 
@@ -89,4 +89,4 @@ const dataP = input => {
        maxSum += numbers[i + 1];
    }
    console.log(minSum + " " + maxSum);
-}; -->
+};
